@@ -14,10 +14,10 @@
 				<div class="view view-cascade gradient-card-header brown">
 <div class="row">
 	<div class="col-md-6">
-		<h2 class="card-header-title mb-9">BLOG DETAILS</h2>
+		<h2 class="card-header-title text-align text-center mb-9">BLOG DETAILS</h2>
 	</div>
 	<div class="col-md-6">
-		<a type="button" class="btn-floating teal mt-1 mb-0" data-toggle="modal" data-target="#modalContactForm"><i class="fas fa-plus animated  infinite" aria-hidden="true"></i></a>
+		<a type="button" class="btn-floating teal mt-1 mb-0" data-toggle="modal" data-target="#modalContactForm"><i class="fas fa-plus animated   infinite" aria-hidden="true"></i></a>
 	</div>
 </div>
 
